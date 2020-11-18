@@ -1,5 +1,5 @@
 //pick first two digits by writing into code. Later, input
-//b4l is "before last" and last is "last"
+//b4las is "before last" and las is "last" digit
 var b4las=1, var las=1;
 //generate array and push b4las and las into it
 //generate next digit nextdig as sum or digit sum of b4las and las
